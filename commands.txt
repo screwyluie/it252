@@ -1,0 +1,37 @@
+    1  git --version
+    2  git clone https://github.com/screwyluie/it252
+    3  ls
+    4  cd it252/
+    5  ls
+    6  touch test1
+    7  touch test2
+    8  touch test3
+    9  ls
+   10  git commit
+   11  git /?
+   12  git --help
+   13  git merge
+   14  git push
+   15  git push
+   16  git commit
+   17  git --add
+   18  git add --all
+   19  git commit
+   20  git commit
+   21  git push
+   22  git config credential.helper 'cache --timeout 900'
+   23  git status
+   24  git --help
+   25  git pull
+   26  ls
+   27  nano birds.txt
+   28  mv birds.txt bird.txt
+   29  nano insect.txt
+   30  nano reptile.txt
+   31  git status
+   32  git add --all
+   33  git status
+   34  git commit -m "Added information about birds, insects, and reptiles."
+   35  git push
+   36  history
+   37  history > commands.txt
